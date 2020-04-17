@@ -1,0 +1,6 @@
+<launch>
+
+        <node name="Capture" pkg="handrecog" type="capture.py" />
+        <node name="GestureDetector" pkg="handrecog" type="GestureDetector3.py" />
+    
+</launch>

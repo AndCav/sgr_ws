@@ -1,0 +1,8 @@
+prefix=/home/andcav/sgr_ws/install
+
+Name: handrecog
+Description: Description of handrecog
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
